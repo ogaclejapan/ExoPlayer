@@ -556,7 +556,17 @@
         "name": "VMAP full, empty, full midrolls",
         "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv",
         "ad_tag_uri": "https://vastsynthesizer.appspot.com/empty-midroll-2"
-      }
+      },
+      {
+        "name": "DEMO1 (freezes at 18s)",
+        "uri": "https://file.ogaclejapan.com/video/video_30s_hls/index.m3u8",
+        "ad_tag_uri": "https://vast-ads.netlify.com/demo.xml"
+      },
+      {
+        "name": "DEMO2",
+        "uri": "https://file.ogaclejapan.com/video/video_30s_hls/index.m3u8",
+        "ad_tag_uri": "https://vast-ads.netlify.com/demo2.xml"
+      }      
     ]
   },
   {
