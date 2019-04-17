@@ -566,7 +566,12 @@
         "name": "DEMO2",
         "uri": "https://file.ogaclejapan.com/video/video_30s_hls/index.m3u8",
         "ad_tag_uri": "https://vast-ads.netlify.com/demo2.xml"
-      }      
+      },
+      {
+        "name": "DEMO3",
+        "uri": "https://file.ogaclejapan.com/video/video_300s_hls/index.m3u8",
+        "ad_tag_uri": "https://vast-ads.netlify.com/demo2.xml"
+      }
     ]
   },
   {
